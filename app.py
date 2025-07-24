@@ -41,8 +41,8 @@ def obter_resposta(texto: str) -> str:
         'deep learning': 'O aprendizado profundo é uma subárea do aprendizado de máquina que utiliza redes neurais profundas para modelar dados complexos.',
         'problemas saúde': 'Problemas de saúde podem variar de leves a graves e podem afetar qualquer parte do corpo.',
         'saúde': 'A saúde é um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doenças ou enfermidades.',
-        'sintomas': 'Sintomas são sinais ou indicações de uma condição médica ou doença.',
         ('indisposição', 'sintomas de indisposição', 'estou com sintomas de indisposição'): 'Sintomas de indisposição podem incluir fadiga, dor de cabeça, náusea e outros sinais de que algo não está bem.',
+        'sintomas': 'Sintomas são sinais ou indicações de uma condição médica ou doença.',
     }
 
 
